@@ -1,0 +1,218 @@
+> # Track Fields for the Crate Files #
+
+1. ptrk
+
+  * type: string
+  * description: path to the track
+  * default: C:/mp3/test.mp3
+
+# Track Fields for the Database Files #
+
+1. ttyp
+
+  * type: string
+  * description: file type (ie: mp3)
+  * default: mp3
+
+2. pfil
+
+  * type: string
+  * description: file path
+  * default: C:/mp3/test.mp3
+
+3. tsng
+
+  * type: string
+  * description: Song name
+  * default: test
+
+4. tart
+
+  * type: string
+  * description: artist name
+  * default:
+
+5. tgen
+  * type: string
+  * description: genre
+  * default:
+
+6. talb
+
+  * type: string
+  * description: album name
+  * default:
+
+7. tcom
+
+  * type: string
+  * description: comments from ID3 tag
+  * default:
+
+8. ttyr
+
+  * type: string
+  * description: year released
+  * default:
+
+9. tlbl
+
+  * type: string
+  * description: label released on
+  * default:
+
+10. tcmp
+
+  * type: string
+  * description: Composer
+  * default:
+
+11. tgrp
+
+  * type: string
+  * description: Group
+  * default:
+
+12. tlen
+
+  * type: string
+  * description: length
+  * default:
+
+13. tbpm
+
+  * type: string
+  * description: Beats Per Minute
+  * default:
+
+14. tsiz
+
+  * type: string
+  * description: File size
+  * default: 0MB
+
+15. tbit
+
+  * type: string
+  * description: Bitrate
+  * default: 128.0kbps
+
+16. tsmp
+
+  * type: string
+  * description:
+  * default: 44.1k
+
+17. tadd
+
+  * type: string
+  * description: Date and Time added to SL
+  * default: '1/01/1990 12:30:00 PM'
+
+18. uadd
+
+  * type: int(4)
+  * description:
+  * default: 1232238714
+
+19. utkn
+
+  * type: int(4)
+  * description:
+  * default: 0
+
+20. ulbl
+
+  * type: int(4)
+  * description:
+  * default: 16777215
+
+21. ufsb
+
+  * type: int(4)
+  * description:
+  * default: 2822441
+
+22. utme
+
+  * type: int(4)
+  * description:
+  * default: 1232252053
+
+23. udsc
+
+  * type: int(4)
+  * description:
+  * default: 0
+
+24. sbav
+
+  * type: char
+  * description:
+  * default: ' '
+
+25. bhrt
+
+  * type: int(1)
+  * description:
+  * default: 1
+
+26. bmis
+
+  * type: int(1)
+  * description:
+  * default: 0
+
+27. bply
+
+  * type: int(1)
+  * description:
+  * default: 0
+
+28. blop
+
+  * type: int(1)
+  * description:
+  * default: 0
+
+29. bitu
+
+  * type: int(1)
+  * description:
+  * default: 0
+
+30. bovc
+
+  * type: int(1)
+  * description:
+  * default: 1
+
+31. bcrt
+
+  * type: int(1)
+  * description:
+  * default: 0
+
+32. biro
+
+  * type: int(1)
+  * description:
+  * default: 0
+
+33. bwlb
+
+  * type: int(1)
+  * description:
+  * default: 0
+
+34. bwll
+
+  * type: int(1)
+  * description:
+  * default: 0
+
+35. buns
+
+  * type: int(1)
+  * description:
+  * default: 0
